@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+Welcome to my Github page! I am a Full-Stack Web Developer. I love learning new things and using what i know to create dynamic and fun apps and sites. Take a look at some of my projects!
+
+- 🌱 I’m currently learning React-Native.
+
 - 📫 How to reach me: vinnielo01@gmail.com
 
 <!--
