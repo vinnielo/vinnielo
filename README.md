@@ -1,4 +1,4 @@
-[![Header](https://github.com/vinnielo/vinnielo/blob/master/Vinnie-Lopez-black-low-res.png?raw=true "Header")](https://github.com/vinnielo/vinnielo/blob/master/Vinnie-Lopez-black-low-res.png?raw=true)
+[![Header](https://github.com/vinnielo/vinnielo/blob/master/Vinnie-Lopez-black-low-res-60sm.png?raw=true "Header")](https://github.com/vinnielo/vinnielo/blob/master/Vinnie-Lopez-black-low-res-60sm.png?raw=true)
 
 ### Hi I'm Vinnie 👋
 
