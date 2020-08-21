@@ -1,4 +1,4 @@
-[![Header](https://github.com/vinnielo/React-Portfolio/blob/master/public/images/Vinnie-Lopez-white-low-res.png "Header")](https://github.com/vinnielo/React-Portfolio/blob/master/public/images/Vinnie-Lopez-white-low-res.png)
+[![Header](https://github.com/vinnielo/vinnielo/blob/master/Vinnie-Lopez-black-low-res.png?raw=true "Header")](https://github.com/vinnielo/vinnielo/blob/master/Vinnie-Lopez-black-low-res.png?raw=true)
 
 ### Vinnie Lopez 👋
 
