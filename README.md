@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+- 📫 How to reach me: vinnielo01@gmail.com
+
 <!--
 **vinnielo/vinnielo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
