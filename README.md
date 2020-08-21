@@ -10,8 +10,8 @@ Take a look at some of my projects!
 
 ### Contact Me
 
-- 📫 Email: vinnielo01@gmail.com
-- LinkedIn: https://www.linkedin.com/in/vinnie-lopez-8397ba92/
+- 📫: vinnielo01@gmail.com
+- <img src="https://image.flaticon.com/icons/svg/145/145807.svg" width="30px">: https://www.linkedin.com/in/vinnie-lopez-8397ba92/
 - Personal Site: https://vinnielo.com/
 
 <!--
