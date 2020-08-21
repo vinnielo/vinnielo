@@ -1,4 +1,4 @@
-[![Header](https://raw.githubusercontent.com/MartinHeinz/<OWNER>/<OWNER>/readme_header.png "Header")](https://github.com/vinnielo/React-Portfolio/blob/master/public/images/Vinnie-Lopez-white-low-res.png)
+[![Header](https://github.com/vinnielo/React-Portfolio/blob/master/public/images/Vinnie-Lopez-white-low-res.png "Header")](https://github.com/vinnielo/React-Portfolio/blob/master/public/images/Vinnie-Lopez-white-low-res.png)
 
 ### Vinnie Lopez 👋
 
