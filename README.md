@@ -1,6 +1,6 @@
 [![Header](https://github.com/vinnielo/vinnielo/blob/master/Vinnie-Lopez-black-low-res.png?raw=true "Header")](https://github.com/vinnielo/vinnielo/blob/master/Vinnie-Lopez-black-low-res.png?raw=true)
 
-### Vinnie Lopez 👋
+### Hi I'm Vinnie 👋
 
 Welcome to my Github page! I am a Full-Stack Web Developer. I love learning new things and using what i know to create dynamic and fun apps and sites. I get inspired by things I do daily. I can code HTML5, CSS, Node, React, and many more. I hope to build my profile and add more and more repos.
 
