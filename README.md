@@ -25,7 +25,7 @@ Take a look at some of my projects!
 
 - 📫: vinnielo01@gmail.com
 - <img src="https://image.flaticon.com/icons/svg/145/145807.svg" width="30px">: https://www.linkedin.com/in/vinnie-lopez-8397ba92/
-- Personal Site: https://vinnielo.com/
+- Personal Site: [https://vinnielo.com/](https://vinnielo2024-eta-ten.vercel.app/)
 
 <!--
 **vinnielo/vinnielo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
